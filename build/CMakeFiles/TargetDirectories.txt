@@ -1,3 +1,0 @@
-/Users/himanan/Desktop/HttpServer/build/CMakeFiles/server.dir
-/Users/himanan/Desktop/HttpServer/build/CMakeFiles/edit_cache.dir
-/Users/himanan/Desktop/HttpServer/build/CMakeFiles/rebuild_cache.dir
